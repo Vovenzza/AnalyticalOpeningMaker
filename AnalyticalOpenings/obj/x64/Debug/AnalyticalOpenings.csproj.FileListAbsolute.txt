@@ -1,0 +1,6 @@
+D:\Study\BIM\AI\Code\Try10_OpeningMaker\AnalyticalOpenings\AnalyticalOpenings\bin\x64\Debug\AnalyticalOpenings.dll
+D:\Study\BIM\AI\Code\Try10_OpeningMaker\AnalyticalOpenings\AnalyticalOpenings\bin\x64\Debug\AnalyticalOpenings.pdb
+D:\Study\BIM\AI\Code\Try10_OpeningMaker\AnalyticalOpenings\AnalyticalOpenings\obj\x64\Debug\AnalyticalOpenings.csproj.AssemblyReference.cache
+D:\Study\BIM\AI\Code\Try10_OpeningMaker\AnalyticalOpenings\AnalyticalOpenings\obj\x64\Debug\AnalyticalOpenings.csproj.CoreCompileInputs.cache
+D:\Study\BIM\AI\Code\Try10_OpeningMaker\AnalyticalOpenings\AnalyticalOpenings\obj\x64\Debug\AnalyticalOpenings.dll
+D:\Study\BIM\AI\Code\Try10_OpeningMaker\AnalyticalOpenings\AnalyticalOpenings\obj\x64\Debug\AnalyticalOpenings.pdb

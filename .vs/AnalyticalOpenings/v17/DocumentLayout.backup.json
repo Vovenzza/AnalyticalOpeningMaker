@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\BIM\\AI\\Code\\Try10_OpeningMaker\\AnalyticalOpenings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CE20D4-887C-4802-B22E-919878BAD1A4}|AnalyticalOpenings\\AnalyticalOpenings.csproj|d:\\study\\bim\\ai\\code\\try10_openingmaker\\analyticalopenings\\analyticalopenings\\createanalyticalopeningsfromcutters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CE20D4-887C-4802-B22E-919878BAD1A4}|AnalyticalOpenings\\AnalyticalOpenings.csproj|solutionrelative:analyticalopenings\\createanalyticalopeningsfromcutters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateAnalyticalOpeningsFromCutters.cs",
+              "DocumentMoniker": "D:\\Study\\BIM\\AI\\Code\\Try10_OpeningMaker\\AnalyticalOpenings\\AnalyticalOpenings\\CreateAnalyticalOpeningsFromCutters.cs",
+              "RelativeDocumentMoniker": "AnalyticalOpenings\\CreateAnalyticalOpeningsFromCutters.cs",
+              "ToolTip": "D:\\Study\\BIM\\AI\\Code\\Try10_OpeningMaker\\AnalyticalOpenings\\AnalyticalOpenings\\CreateAnalyticalOpeningsFromCutters.cs",
+              "RelativeToolTip": "AnalyticalOpenings\\CreateAnalyticalOpeningsFromCutters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T20:46:49.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
