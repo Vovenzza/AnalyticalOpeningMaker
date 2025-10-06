@@ -2,6 +2,9 @@
 
 A Revit 2023 add‑in that automatically creates **analytical openings** in selected analytical panels based on intersections with selected cutter elements (Generic Models, Shaft Openings).
 
+![Revit](https://github.com/user-attachments/assets/b1bceb3d-83e2-4f1b-b71a-06cfa0c32c3d)
+
+
 ---
 
 ## ✨ Features
